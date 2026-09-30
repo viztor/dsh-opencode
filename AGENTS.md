@@ -23,7 +23,7 @@ aliases:
 ## Repository & Linking
 
 - Source: `~/dev/dsh-opencode`
-- Linked in DSH Web profile: `~/.dsh/profiles/web/package.json` as `"dsh-opencode-session": "link:../../../dev/dsh-opencode"`
+- Linked in DSH Web profile: `~/.dsh/profiles/web/package.json` as `"dsh-opencode": "link:../../../dev/dsh-opencode"`
 - Patch file: `cordis.patch.yml`
 
 ## Commands
