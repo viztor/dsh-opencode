@@ -6,6 +6,13 @@ This project is an evolution of [**`nobu121/dsh-opencode-session`**](https://git
 
 ---
 
+## [0.6.0](https://github.com/viztor/dsh-opencode/compare/v0.5.1...v0.6.0) (2026-10-01)
+
+
+### Features
+
+* restyle the icon into the Harness icon family ([eeb1fd8](https://github.com/viztor/dsh-opencode/commit/eeb1fd8a21babdb273969cf82e9f91db0a1a380a))
+
 ## [0.5.1](https://github.com/viztor/dsh-opencode/compare/v0.5.0...v0.5.1) (2026-10-01)
 
 
